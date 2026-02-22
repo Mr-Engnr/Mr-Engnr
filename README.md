@@ -33,3 +33,9 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 ## 📫 Contact
 - Email: ranasaad727@gmail.com
 - LinkedIn: www.linkedin.com/in/rana-saad-safdar
+
+## Quote of the Day 🚀
+
+> It's necessary to get the losers out of your life if you want to live your dream.  
+> — Les Brown
+*(Updated: 2026-02-22)*
