@@ -1,0 +1,67 @@
+name: Daily Quote Update
+
+on:
+  schedule:
+    - cron: '15 0 * * *'          # Runs ~5:15 AM PKT daily
+  workflow_dispatch:              # Click "Run workflow" button to test manually
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4
+
+      - name: Fetch a random quote
+        id: quote
+        run: |
+          RESPONSE=$(curl -s https://api.quotable.io/random)
+          QUOTE=$(echo "$RESPONSE" | jq -r '.content')
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.author')
+          TODAY=$(date -u '+%Y-%m-%d')
+          
+          echo "quote_text=$QUOTE" >> $GITHUB_OUTPUT
+          echo "quote_author=$AUTHOR" >> $GITHUB_OUTPUT
+          echo "update_date=$TODAY" >> $GITHUB_OUTPUT
+
+      - name: Update README.md with the quote
+        run: |
+          QUOTE="${{ steps.quote.outputs.quote_text }}"
+          AUTHOR="${{ steps.quote.outputs.quote_author }}"
+          DATE="${{ steps.quote.outputs.update_date }}"
+
+          # Add header if missing
+          if ! grep -q "## Quote of the Day" README.md; then
+            echo -e "\n## Quote of the Day 🚀\n" >> README.md
+          fi
+
+          # Remove old quote block (from header to next ## or end)
+          sed -i '/## Quote of the Day 🚀/,/^## /{/## Quote of the Day 🚀/!d; /^## /q}' README.md || true
+
+          # Insert new quote right after the header
+          NEW_QUOTE=$(cat <<EOF
+
+
+> $QUOTE  
+> — $AUTHOR
+
+*(Updated: $DATE)*
+EOF
+          )
+
+          sed -i "/## Quote of the Day 🚀/a\\$NEW_QUOTE" README.md
+          
+          # Clean up any extra blank lines if needed
+          sed -i '/./,/^$/!d' README.md
+
+      - name: Commit the change
+        run: |
+          git config user.name  "Mr-Engnr"
+          git config user.email "ranasaad727@gmail.com" 
+          
+          git add README.md
+          git commit -m "chore: daily quote of the day $(date -u '+%Y-%m-%d')" || echo "No changes"
+          git push
