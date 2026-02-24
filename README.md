@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> When at last you are come to the ocean of happiness, do not go back thirsty.  
-> — Kabir
-*(Updated: 2026-02-23)*
+> Keep smiling, because life is a beautiful thing and there's so much to smile about.  
+> — Marilyn Monroe
+*(Updated: 2026-02-24)*
