@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.  
-> — Carl Bard
-*(Updated: 2026-02-25)*
+> Genius is patience.  
+> — Isaac Newton
+*(Updated: 2026-02-26)*
