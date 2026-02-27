@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Genius is patience.  
-> — Isaac Newton
-*(Updated: 2026-02-26)*
+> Imagination is more important than knowledge.  
+> — Albert Einstein
+*(Updated: 2026-02-27)*
