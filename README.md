@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Every day is an opportunity to a make a new happy ending.  
-> — Jonathan Swift
-*(Updated: 2026-02-28)*
+> You need to be doing fewer things for more effect instead of doing more things with side effects.  
+> — Gary Keller
+*(Updated: 2026-03-01)*
