@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Life itself is the most wonderful fairy tale.  
-> — Hans Christian Andersen
-*(Updated: 2026-03-02)*
+> Do not use life to give life to death. Do not use death to bring death to life.  
+> — Zhuangzi
+*(Updated: 2026-03-03)*
