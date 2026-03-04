@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Do not use life to give life to death. Do not use death to bring death to life.  
-> — Zhuangzi
-*(Updated: 2026-03-03)*
+> Our greatest glory is not in never falling, but in rising every time we fall.   
+> — Confucius
+*(Updated: 2026-03-04)*
