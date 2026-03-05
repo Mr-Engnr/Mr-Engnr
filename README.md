@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Our greatest glory is not in never falling, but in rising every time we fall.   
-> — Confucius
-*(Updated: 2026-03-04)*
+> The scariest moment is always just before you start. After that, things can only get better.  
+> — Stephen King
+*(Updated: 2026-03-05)*
