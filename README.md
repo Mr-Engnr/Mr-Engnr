@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The scariest moment is always just before you start. After that, things can only get better.  
-> — Stephen King
-*(Updated: 2026-03-05)*
+> The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches.  
+> — Ming-Dao Deng
+*(Updated: 2026-03-06)*
