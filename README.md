@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Successful people appreciate where they have come from, but they don't let their past set the tone for their future.  
-> — Steve Harvey
-*(Updated: 2026-03-07)*
+> If you change the way you look at things, the things you look at change.   
+> — Wayne Dyer
+*(Updated: 2026-03-08)*
