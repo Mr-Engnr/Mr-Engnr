@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you change the way you look at things, the things you look at change.   
-> — Wayne Dyer
-*(Updated: 2026-03-08)*
+> Your success and happiness lie in you.  
+> — Helen Keller
+*(Updated: 2026-03-09)*
