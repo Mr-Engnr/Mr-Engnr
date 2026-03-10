@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Your success and happiness lie in you.  
-> — Helen Keller
-*(Updated: 2026-03-09)*
+> A wise person should have money in their head, but not in their heart.  
+> — Jonathan Swift
+*(Updated: 2026-03-10)*
