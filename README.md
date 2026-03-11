@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> A wise person should have money in their head, but not in their heart.  
-> — Jonathan Swift
-*(Updated: 2026-03-10)*
+> Conflict cannot survive without your participation.   
+> — Wayne Dyer
+*(Updated: 2026-03-11)*
