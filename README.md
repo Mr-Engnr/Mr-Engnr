@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Conflict cannot survive without your participation.   
-> — Wayne Dyer
-*(Updated: 2026-03-11)*
+> A strong man overcomes an obstacle, a wise man goes the whole way.  
+> — Zen Proverb
+*(Updated: 2026-03-12)*
