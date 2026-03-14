@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> My powers are ordinary. Only my application brings me success.  
-> — Isaac Newton
-*(Updated: 2026-03-13)*
+> Normal is the average of deviance.  
+> — Rita Mae Brown
+*(Updated: 2026-03-14)*
