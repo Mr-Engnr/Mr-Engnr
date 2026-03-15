@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Normal is the average of deviance.  
-> — Rita Mae Brown
-*(Updated: 2026-03-14)*
+> My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.  
+> — Thich Nhat Hanh
+*(Updated: 2026-03-15)*
