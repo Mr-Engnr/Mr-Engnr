@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.  
-> — Henry Ward Beecher
-*(Updated: 2026-03-17)*
+> To live is to be willing to die over and over again.  
+> — Pema Chodron
+*(Updated: 2026-03-18)*
