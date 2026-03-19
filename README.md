@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> To live is to be willing to die over and over again.  
-> — Pema Chodron
-*(Updated: 2026-03-18)*
+> To become what you are not, behave as you do not.  
+> — T.S. Eliot
+*(Updated: 2026-03-19)*
