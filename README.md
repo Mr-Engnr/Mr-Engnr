@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> To become what you are not, behave as you do not.  
-> — T.S. Eliot
-*(Updated: 2026-03-19)*
+> The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.  
+> — Benjamin Mays
+*(Updated: 2026-03-20)*
