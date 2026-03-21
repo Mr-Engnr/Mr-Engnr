@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.  
-> — Benjamin Mays
-*(Updated: 2026-03-20)*
+> When at last you are come to the ocean of happiness, do not go back thirsty.  
+> — Kabir
+*(Updated: 2026-03-21)*
