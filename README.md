@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> When at last you are come to the ocean of happiness, do not go back thirsty.  
-> — Kabir
-*(Updated: 2026-03-21)*
+> Loving thoughts and actions are clearly beneficial for our physical and mental health.  
+> — Dalai Lama
+*(Updated: 2026-03-22)*
