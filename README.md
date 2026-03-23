@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Loving thoughts and actions are clearly beneficial for our physical and mental health.  
-> — Dalai Lama
-*(Updated: 2026-03-22)*
+> The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.  
+> — Heraclitus
+*(Updated: 2026-03-23)*
