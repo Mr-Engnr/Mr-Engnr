@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The content of your character is your choice. Day by day, what you choose, what you think and what you do is who you become.  
-> — Heraclitus
-*(Updated: 2026-03-23)*
+> The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.  
+> — Zig Ziglar
+*(Updated: 2026-03-24)*
