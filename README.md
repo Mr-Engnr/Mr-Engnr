@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The major difference between the big shot and the little shot is the big shot is just a little shot who kept on shooting.  
-> — Zig Ziglar
-*(Updated: 2026-03-24)*
+> Not everything that weighs you down is yours to carry.  
+> — Unknown
+*(Updated: 2026-03-25)*
