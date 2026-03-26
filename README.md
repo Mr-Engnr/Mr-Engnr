@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Not everything that weighs you down is yours to carry.  
-> — Unknown
-*(Updated: 2026-03-25)*
+> There is nothing in the world so irresistibly contagious as laughter and good humor.  
+> — Charles Dickens
+*(Updated: 2026-03-26)*
