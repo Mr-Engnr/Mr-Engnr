@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There is nothing in the world so irresistibly contagious as laughter and good humor.  
-> — Charles Dickens
-*(Updated: 2026-03-26)*
+> Mistakes are always forgivable, if one has the courage to admit them.   
+> — Bruce Lee
+*(Updated: 2026-03-27)*
