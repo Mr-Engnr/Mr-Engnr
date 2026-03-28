@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Mistakes are always forgivable, if one has the courage to admit them.   
-> — Bruce Lee
-*(Updated: 2026-03-27)*
+> Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy.  
+> — Celestine Chua
+*(Updated: 2026-03-28)*
