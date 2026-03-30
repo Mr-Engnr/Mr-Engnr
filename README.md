@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Those who dream by day are cognizant of many things which escape those who dream only by night.  
-> — Vincent van Gogh
-*(Updated: 2026-03-29)*
+> Definitions belong to the definers, not the defined.  
+> — Toni Morrison
+*(Updated: 2026-03-30)*
