@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Definitions belong to the definers, not the defined.  
-> — Toni Morrison
-*(Updated: 2026-03-30)*
+> I would rather be a little nobody, then to be an evil somebody.  
+> — Abraham Lincoln
+*(Updated: 2026-03-31)*
