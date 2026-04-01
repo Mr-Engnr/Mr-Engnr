@@ -36,6 +36,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> I would rather be a little nobody, then to be an evil somebody.  
-> — Abraham Lincoln
-*(Updated: 2026-03-31)*
+> Treat every moment as your last. It is not preparation for something else.  
+> — Shunryu Suzuki
+*(Updated: 2026-04-01)*
