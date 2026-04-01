@@ -1,12 +1,12 @@
 # Rana Saad Safdar 👋
 
-🎓 Computer Engineering Student  
+🎓 Computer Engineer  
 💻 Python | Data Analytics | Machine Learning | Cloud | IoT  
 
 ---
 
 ## 👨‍💻 About Me
-I am a Computer Engineering student with experience in Python, data analytics, machine learning, cloud computing, and IoT systems.  
+I am a Computer Engineer with experience in Python, data analytics, machine learning, cloud computing, and IoT systems.  
 I enjoy building **end-to-end, real-world projects** that combine hardware, data, and intelligent software.
 
 ---
@@ -31,7 +31,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 ---
 
 ## 📫 Contact
-- Email: ranasaad727@gmail.com
 - LinkedIn: www.linkedin.com/in/rana-saad-safdar
 
 ## Quote of the Day 🚀
