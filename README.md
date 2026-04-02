@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Treat every moment as your last. It is not preparation for something else.  
-> — Shunryu Suzuki
-*(Updated: 2026-04-01)*
+> There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.  
+> — Epictetus
+*(Updated: 2026-04-02)*
