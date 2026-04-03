@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.  
-> — Epictetus
-*(Updated: 2026-04-02)*
+> A thing must be loved before it is lovable.  
+> — Gilbert Chesterton
+*(Updated: 2026-04-03)*
