@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> A thing must be loved before it is lovable.  
-> — Gilbert Chesterton
-*(Updated: 2026-04-03)*
+> Words have no power to impress the mind without the exquisite horror of their reality.  
+> — Edgar Allan Poe
+*(Updated: 2026-04-04)*
