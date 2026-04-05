@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Words have no power to impress the mind without the exquisite horror of their reality.  
-> — Edgar Allan Poe
-*(Updated: 2026-04-04)*
+> Why fit in when you were born to stand out?  
+> — Dr. Seuss
+*(Updated: 2026-04-05)*
