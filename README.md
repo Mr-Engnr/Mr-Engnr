@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Why fit in when you were born to stand out?  
-> — Dr. Seuss
-*(Updated: 2026-04-05)*
+> Always forgive your enemies - nothing annoys them so much.   
+> — Oscar Wilde
+*(Updated: 2026-04-06)*
