@@ -21,14 +21,14 @@ jobs:
       - name: Fetch a random quote
         id: quote
         run: |
-          RESPONSE=$(curl -sk --max-time 10 https://zenquotes.io/api/random)
-          QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q')
-          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a')
+          RESPONSE=$(curl -sk --max-time 10 https://zenquotes.io/api/random || echo "")
+          QUOTE=$(echo "$RESPONSE" | jq -r '.[0].q' 2>/dev/null)
+          AUTHOR=$(echo "$RESPONSE" | jq -r '.[0].a' 2>/dev/null)
           TODAY=$(date -u '+%Y-%m-%d')
 
           if [ -z "$QUOTE" ] || [ "$QUOTE" = "null" ]; then
-            echo "Failed to fetch quote: $RESPONSE"
-            exit 1
+            QUOTE="Build things that matter."
+            AUTHOR="Unknown"
           fi
 
           {
