@@ -1,8 +1,12 @@
 name: Daily Quote Update
+
 on:
   schedule:
     - cron: '15 0 * * *'
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
   contents: write
@@ -23,13 +27,19 @@ jobs:
           TODAY=$(date -u '+%Y-%m-%d')
 
           if [ -z "$QUOTE" ] || [ "$QUOTE" = "null" ]; then
-            echo "Failed to fetch quote"
+            echo "Failed to fetch quote: $RESPONSE"
             exit 1
           fi
 
-          echo "quote_text=$QUOTE" >> $GITHUB_OUTPUT
-          echo "quote_author=$AUTHOR" >> $GITHUB_OUTPUT
-          echo "update_date=$TODAY" >> $GITHUB_OUTPUT
+          {
+            echo "quote_text<<DELIM"
+            echo "$QUOTE"
+            echo "DELIM"
+            echo "quote_author<<DELIM"
+            echo "$AUTHOR"
+            echo "DELIM"
+            echo "update_date=$TODAY"
+          } >> "$GITHUB_OUTPUT"
 
       - name: Update README.md with the quote
         env:
