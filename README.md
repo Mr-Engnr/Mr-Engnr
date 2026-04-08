@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Always forgive your enemies - nothing annoys them so much.   
-> — Oscar Wilde
-*(Updated: 2026-04-06)*
+> If you genuinely want something, don't wait for it - teach yourself.  
+> — Gurbaksh Chahal
+*(Updated: 2026-04-08)*
