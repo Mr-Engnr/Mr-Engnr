@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Some people feel the rain. Others just get wet.   
-> — Bob Dylan
-*(Updated: 2026-04-09)*
+> Never fear quarrels, but seek hazardous adventures.  
+> — Alexandre Dumas
+*(Updated: 2026-04-10)*
