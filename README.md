@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Never fear quarrels, but seek hazardous adventures.  
-> — Alexandre Dumas
-*(Updated: 2026-04-10)*
+> The quality, not the longevity, of one's life is what is important.  
+> — Martin Luther King, Jr.
+*(Updated: 2026-04-11)*
