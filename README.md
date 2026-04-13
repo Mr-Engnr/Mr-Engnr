@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> I defeat my enemies when I make them my friends.  
-> — Dalai Lama
-*(Updated: 2026-04-12)*
+> My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand.  
+> — Thich Nhat Hanh
+*(Updated: 2026-04-13)*
