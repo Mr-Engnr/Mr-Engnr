@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.  
-> — Emily Dickinson
-*(Updated: 2026-04-14)*
+> You can't go forward and backwards at the same time.  
+> — Steve Harvey
+*(Updated: 2026-04-15)*
