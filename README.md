@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> You can't go forward and backwards at the same time.  
-> — Steve Harvey
-*(Updated: 2026-04-15)*
+> Perpetual optimism is a force multiplier.  
+> — Colin Powell
+*(Updated: 2026-04-16)*
