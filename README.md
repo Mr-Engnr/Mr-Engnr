@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If a man knows not to which port he sails, no wind is favorable.    
-> — Seneca
-*(Updated: 2026-04-17)*
+> Follow your heart, listen to your inner voice, stop caring about what others think.  
+> — Roy T. Bennett
+*(Updated: 2026-04-18)*
