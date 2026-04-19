@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Follow your heart, listen to your inner voice, stop caring about what others think.  
-> — Roy T. Bennett
-*(Updated: 2026-04-18)*
+> One must be deeply aware of the impermanence of the world.  
+> — Dogen
+*(Updated: 2026-04-19)*
