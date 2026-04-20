@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> One must be deeply aware of the impermanence of the world.  
-> — Dogen
-*(Updated: 2026-04-19)*
+> If you don't like something, change it. If you can't change it, change your attitude.  
+> — Maya Angelou
+*(Updated: 2026-04-20)*
