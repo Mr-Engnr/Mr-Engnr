@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you don't like something, change it. If you can't change it, change your attitude.  
-> — Maya Angelou
-*(Updated: 2026-04-20)*
+> We become brave by doing brave acts.  
+> — Aristotle
+*(Updated: 2026-04-21)*
