@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> We become brave by doing brave acts.  
-> — Aristotle
-*(Updated: 2026-04-21)*
+> If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.  
+> — Deepak Chopra
+*(Updated: 2026-04-22)*
