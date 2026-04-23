@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return.  
-> — Deepak Chopra
-*(Updated: 2026-04-22)*
+> Ideas do not reach perfection in a day, no matter how much study is put upon them.  
+> — Alexander Graham Bell
+*(Updated: 2026-04-23)*
