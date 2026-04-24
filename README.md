@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Ideas do not reach perfection in a day, no matter how much study is put upon them.  
-> — Alexander Graham Bell
-*(Updated: 2026-04-23)*
+> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.  
+> — Nikola Tesla
+*(Updated: 2026-04-24)*
