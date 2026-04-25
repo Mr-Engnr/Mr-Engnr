@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.  
-> — Nikola Tesla
-*(Updated: 2026-04-24)*
+> There is an essence of when you are fearless, you become more creative.  
+> — Gurbaksh Chahal
+*(Updated: 2026-04-25)*
