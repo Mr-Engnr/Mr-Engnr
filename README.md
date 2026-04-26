@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There is an essence of when you are fearless, you become more creative.  
-> — Gurbaksh Chahal
-*(Updated: 2026-04-25)*
+> Many people will walk in and out of your life, but only true friends will leave footprints in your heart.  
+> — Eleanor Roosevelt
+*(Updated: 2026-04-26)*
