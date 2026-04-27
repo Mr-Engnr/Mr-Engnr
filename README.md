@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Many people will walk in and out of your life, but only true friends will leave footprints in your heart.  
-> — Eleanor Roosevelt
-*(Updated: 2026-04-26)*
+> Most of the evil in this world is done by people with good intentions.  
+> — T.S. Eliot
+*(Updated: 2026-04-27)*
