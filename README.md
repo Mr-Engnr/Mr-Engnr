@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Most of the evil in this world is done by people with good intentions.  
-> — T.S. Eliot
-*(Updated: 2026-04-27)*
+> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.  
+> — Robert Kiyosaki
+*(Updated: 2026-04-28)*
