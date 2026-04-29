@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.  
-> — Robert Kiyosaki
-*(Updated: 2026-04-28)*
+> To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.  
+> — Elvis Presley
+*(Updated: 2026-04-29)*
