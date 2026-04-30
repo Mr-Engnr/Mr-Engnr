@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> To judge a man by his weakest link or deed is like judging the power of the ocean by one wave.  
-> — Elvis Presley
-*(Updated: 2026-04-29)*
+> The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart.   
+> — St. Jerome
+*(Updated: 2026-04-30)*
