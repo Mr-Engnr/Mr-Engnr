@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart.   
-> — St. Jerome
-*(Updated: 2026-04-30)*
+> The privilege of a lifetime is to become who you truly are.  
+> — Carl Jung
+*(Updated: 2026-05-01)*
