@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The only way to make sense out of change is to plunge into it, move with it, and join the dance.  
-> — Alan Watts
-*(Updated: 2026-05-02)*
+> Winners are not people who never fail, but people who never quit.  
+> — Arnold Schwarzenegger
+*(Updated: 2026-05-03)*
