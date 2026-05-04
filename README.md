@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Winners are not people who never fail, but people who never quit.  
-> — Arnold Schwarzenegger
-*(Updated: 2026-05-03)*
+> Life must be a constant education; one must learn everything, from speaking to dying.  
+> — Gustave Flaubert
+*(Updated: 2026-05-04)*
