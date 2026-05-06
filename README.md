@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Success is never final, failure is never fatal. It's courage that counts.  
-> — John Wooden
-*(Updated: 2026-05-05)*
+> Obstacles don't block the path, they are the path.  
+> — Zen Proverb
+*(Updated: 2026-05-06)*
