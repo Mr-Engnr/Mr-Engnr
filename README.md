@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Obstacles don't block the path, they are the path.  
-> — Zen Proverb
-*(Updated: 2026-05-06)*
+> If you've never eaten while crying you don t know what life tastes like.  
+> — Johann Wolfgang von Goethe
+*(Updated: 2026-05-07)*
