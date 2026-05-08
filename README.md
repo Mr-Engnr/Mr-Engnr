@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you've never eaten while crying you don t know what life tastes like.  
-> — Johann Wolfgang von Goethe
-*(Updated: 2026-05-07)*
+> Better to die fighting for freedom than be a prisoner all the days of your life.  
+> — Bob Marley
+*(Updated: 2026-05-08)*
