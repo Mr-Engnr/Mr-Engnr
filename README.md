@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Better to die fighting for freedom than be a prisoner all the days of your life.  
-> — Bob Marley
-*(Updated: 2026-05-08)*
+> Life does not get better by chance, it gets better by change.  
+> — Jim Rohn
+*(Updated: 2026-05-09)*
