@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Life does not get better by chance, it gets better by change.  
+> Attitude drives actions. Actions drive results. Results drive lifestyles.  
 > — Jim Rohn
-*(Updated: 2026-05-09)*
+*(Updated: 2026-05-10)*
