@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Attitude drives actions. Actions drive results. Results drive lifestyles.  
-> — Jim Rohn
-*(Updated: 2026-05-10)*
+> Life is not meant to be easy my child, but take courage: it can be delightful.  
+> — George Bernard Shaw
+*(Updated: 2026-05-11)*
