@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-05-12)*
+> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.  
+> — Paulo Coelho
+*(Updated: 2026-05-13)*
