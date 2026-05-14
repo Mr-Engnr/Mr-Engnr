@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day.  
-> — Paulo Coelho
-*(Updated: 2026-05-13)*
+> If you want to see things just as they are, then you yourself must practice just as you are.  
+> — Dogen
+*(Updated: 2026-05-14)*
