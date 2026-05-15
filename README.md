@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you want to see things just as they are, then you yourself must practice just as you are.  
+> A zen master's life is one continuous mistake.  
 > — Dogen
-*(Updated: 2026-05-14)*
+*(Updated: 2026-05-15)*
