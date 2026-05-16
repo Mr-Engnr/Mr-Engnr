@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> A zen master's life is one continuous mistake.  
-> — Dogen
-*(Updated: 2026-05-15)*
+> The busy man is never wise and the wise man is never busy.  
+> — Lin Yutang
+*(Updated: 2026-05-16)*
