@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The busy man is never wise and the wise man is never busy.  
-> — Lin Yutang
-*(Updated: 2026-05-16)*
+> It all depends on what you choose to believe.  
+> — Spencer Johnson
+*(Updated: 2026-05-17)*
