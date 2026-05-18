@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> It all depends on what you choose to believe.  
-> — Spencer Johnson
-*(Updated: 2026-05-17)*
+> Do not bite at the bait of pleasure, till you know there is no hook beneath it.  
+> — Thomas Jefferson
+*(Updated: 2026-05-18)*
