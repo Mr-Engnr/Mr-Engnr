@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Do not bite at the bait of pleasure, till you know there is no hook beneath it.  
-> — Thomas Jefferson
-*(Updated: 2026-05-18)*
+> Optimism is the one quality more associated with success and happiness than any other.  
+> — Brian Tracy
+*(Updated: 2026-05-19)*
