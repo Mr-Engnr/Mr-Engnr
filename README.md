@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Optimism is the one quality more associated with success and happiness than any other.  
-> — Brian Tracy
-*(Updated: 2026-05-19)*
+> The journey is what brings us happiness not the destination.  
+> — Dan Millman
+*(Updated: 2026-05-20)*
