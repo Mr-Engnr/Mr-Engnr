@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The journey is what brings us happiness not the destination.  
-> — Dan Millman
-*(Updated: 2026-05-20)*
+> Try not to become a man of success, but rather try to become a man of value.  
+> — Albert Einstein
+*(Updated: 2026-05-21)*
