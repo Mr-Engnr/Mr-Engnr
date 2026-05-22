@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Try not to become a man of success, but rather try to become a man of value.  
-> — Albert Einstein
-*(Updated: 2026-05-21)*
+> We will outstretch the hand if you unclench your fist.  
+> — Barack Obama
+*(Updated: 2026-05-22)*
