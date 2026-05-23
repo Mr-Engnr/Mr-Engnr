@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> We will outstretch the hand if you unclench your fist.  
-> — Barack Obama
-*(Updated: 2026-05-22)*
+> All wealth is the product of labor.  
+> — John Locke
+*(Updated: 2026-05-23)*
