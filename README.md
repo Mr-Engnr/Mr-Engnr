@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.  
-> — Paramahansa Yogananda
-*(Updated: 2026-05-24)*
+> Confidence is the greatest friend.  
+> — Lao Tzu
+*(Updated: 2026-05-25)*
