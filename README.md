@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Confidence is the greatest friend.  
-> — Lao Tzu
-*(Updated: 2026-05-25)*
+> Build things that matter.  
+> — Unknown
+*(Updated: 2026-05-26)*
