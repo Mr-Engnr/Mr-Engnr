@@ -37,4 +37,4 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 > Build things that matter.  
 > — Unknown
-*(Updated: 2026-05-26)*
+*(Updated: 2026-05-27)*
