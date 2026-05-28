@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-05-27)*
+> Fear is your worst enemy. Risk is your best friend.  
+> — Gurbaksh Chahal
+*(Updated: 2026-05-28)*
