@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Fear is your worst enemy. Risk is your best friend.  
-> — Gurbaksh Chahal
-*(Updated: 2026-05-28)*
+> We are born from a quiet sleep, and we die to a calm awakening  
+> — Zhuangzi
+*(Updated: 2026-05-29)*
