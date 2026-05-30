@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> We are born from a quiet sleep, and we die to a calm awakening  
-> — Zhuangzi
-*(Updated: 2026-05-29)*
+> The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn.  
+> — Warren Buffett
+*(Updated: 2026-05-30)*
