@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The best investment you can make, is an investment in yourself... The more you learn, the more you'll earn.  
-> — Warren Buffett
-*(Updated: 2026-05-30)*
+> Be not glad at the misfortune of another, though he may be your enemy.  
+> — George Washington
+*(Updated: 2026-05-31)*
