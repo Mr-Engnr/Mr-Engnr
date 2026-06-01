@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Be not glad at the misfortune of another, though he may be your enemy.  
-> — George Washington
-*(Updated: 2026-05-31)*
+> What's happening is merely what's happening. How you feel about it is another matter.  
+> — Neale Donald Walsch
+*(Updated: 2026-06-01)*
