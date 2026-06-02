@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> What's happening is merely what's happening. How you feel about it is another matter.  
-> — Neale Donald Walsch
-*(Updated: 2026-06-01)*
+> The universe doesn't allow perfection.  
+> — Stephen Hawking
+*(Updated: 2026-06-02)*
