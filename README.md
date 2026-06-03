@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The universe doesn't allow perfection.  
-> — Stephen Hawking
-*(Updated: 2026-06-02)*
+> It's your life-but only if you make it so.  
+> — Eleanor Roosevelt
+*(Updated: 2026-06-03)*
