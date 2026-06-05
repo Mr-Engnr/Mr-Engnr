@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-06-04)*
+> Happiness is the spiritual experience of living every minute with love, grace and gratitude.  
+> — Denis Waitley
+*(Updated: 2026-06-05)*
