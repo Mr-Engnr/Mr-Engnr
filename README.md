@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Happiness is the spiritual experience of living every minute with love, grace and gratitude.  
-> — Denis Waitley
-*(Updated: 2026-06-05)*
+> You may forget with whom you laughed, but you will never forget with whom you wept.  
+> — Kahlil Gibran
+*(Updated: 2026-06-06)*
