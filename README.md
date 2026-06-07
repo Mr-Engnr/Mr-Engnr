@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> You may forget with whom you laughed, but you will never forget with whom you wept.  
-> — Kahlil Gibran
-*(Updated: 2026-06-06)*
+> Whoever is happy will make others happy too.  
+> — Anne Frank
+*(Updated: 2026-06-07)*
