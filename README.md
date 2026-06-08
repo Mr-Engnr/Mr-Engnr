@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Whoever is happy will make others happy too.  
-> — Anne Frank
-*(Updated: 2026-06-07)*
+> Give out what you most want to come back.  
+> — Robin Sharma
+*(Updated: 2026-06-08)*
