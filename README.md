@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Give out what you most want to come back.  
-> — Robin Sharma
-*(Updated: 2026-06-08)*
+> Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.  
+> — Buddha
+*(Updated: 2026-06-09)*
