@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water.  
-> — Buddha
-*(Updated: 2026-06-09)*
+> Don't let the noise of others' opinions drown out your own inner voice.  
+> — Steve Jobs
+*(Updated: 2026-06-10)*
