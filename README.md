@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Don't let the noise of others' opinions drown out your own inner voice.  
-> — Steve Jobs
-*(Updated: 2026-06-10)*
+> Duty makes us do things well, but love makes us do them beautifully.  
+> — Zig Ziglar
+*(Updated: 2026-06-11)*
