@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Duty makes us do things well, but love makes us do them beautifully.  
-> — Zig Ziglar
-*(Updated: 2026-06-11)*
+> There is no path to Peace. Peace is the path.  
+> — Dan Millman
+*(Updated: 2026-06-12)*
