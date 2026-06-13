@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There is no path to Peace. Peace is the path.  
-> — Dan Millman
-*(Updated: 2026-06-12)*
+> One small positive thought can change your whole day.  
+> — Zig Ziglar
+*(Updated: 2026-06-13)*
