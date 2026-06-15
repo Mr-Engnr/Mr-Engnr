@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.  
-> — Steve Maraboli
-*(Updated: 2026-06-14)*
+> Presents are made for the pleasure of who gives them, not the merits of who receives them.  
+> — Carlos Ruiz Zafon
+*(Updated: 2026-06-15)*
