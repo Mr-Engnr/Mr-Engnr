@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Presents are made for the pleasure of who gives them, not the merits of who receives them.  
-> — Carlos Ruiz Zafon
-*(Updated: 2026-06-15)*
+> What you resist, persists.  
+> — Carl Jung
+*(Updated: 2026-06-16)*
