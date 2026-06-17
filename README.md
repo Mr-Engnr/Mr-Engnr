@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> What you resist, persists.  
-> — Carl Jung
-*(Updated: 2026-06-16)*
+> Setting goals is the first step in turning the invisible into the visible.  
+> — Tony Robbins
+*(Updated: 2026-06-17)*
