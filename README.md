@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Setting goals is the first step in turning the invisible into the visible.  
-> — Tony Robbins
-*(Updated: 2026-06-17)*
+> Build things that matter.  
+> — Unknown
+*(Updated: 2026-06-18)*
