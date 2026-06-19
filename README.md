@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-06-18)*
+> Life's too mysterious to take too serious.  
+> — Mary Engelbreit
+*(Updated: 2026-06-19)*
