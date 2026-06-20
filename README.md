@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Life's too mysterious to take too serious.  
-> — Mary Engelbreit
-*(Updated: 2026-06-19)*
+> Walking with a friend in the dark is better than walking alone in the light.  
+> — Helen Keller
+*(Updated: 2026-06-20)*
