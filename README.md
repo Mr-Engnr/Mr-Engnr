@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Walking with a friend in the dark is better than walking alone in the light.  
-> — Helen Keller
-*(Updated: 2026-06-20)*
+> Deliberately seek the company of people who influence you to think and act on building the life you desire.  
+> — Napoleon Hill
+*(Updated: 2026-06-21)*
