@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Things turn out best for the people who make the best of the way things turn out.  
-> — John Wooden
-*(Updated: 2026-06-22)*
+> When you are content to be simply yourself and don't compare or compete, everybody will respect you.  
+> — Lao Tzu
+*(Updated: 2026-06-23)*
