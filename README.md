@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> When you are content to be simply yourself and don't compare or compete, everybody will respect you.  
-> — Lao Tzu
-*(Updated: 2026-06-23)*
+> I like the dreams of the future better than the history of the past.  
+> — Thomas Jefferson
+*(Updated: 2026-06-24)*
