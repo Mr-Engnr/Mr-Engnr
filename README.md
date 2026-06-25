@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> I like the dreams of the future better than the history of the past.  
-> — Thomas Jefferson
-*(Updated: 2026-06-24)*
+> Courage is found in unlikely places.  
+> — J.R.R. Tolkien
+*(Updated: 2026-06-25)*
