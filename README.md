@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Courage is found in unlikely places.  
-> — J.R.R. Tolkien
-*(Updated: 2026-06-25)*
+> Outstanding people have one thing in common: an absolute sense of mission.  
+> — Zig Ziglar
+*(Updated: 2026-06-26)*
