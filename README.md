@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Outstanding people have one thing in common: an absolute sense of mission.  
-> — Zig Ziglar
-*(Updated: 2026-06-26)*
+> Wisdom is doing now what you are going to be happy with later on.  
+> — Joyce Meyer
+*(Updated: 2026-06-27)*
