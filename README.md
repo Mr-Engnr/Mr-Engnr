@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Wisdom is doing now what you are going to be happy with later on.  
-> — Joyce Meyer
-*(Updated: 2026-06-27)*
+> Humans and prosperity never endure side by side for long.  
+> — Herodotus
+*(Updated: 2026-06-28)*
