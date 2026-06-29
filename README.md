@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Humans and prosperity never endure side by side for long.  
-> — Herodotus
-*(Updated: 2026-06-28)*
+> If you truly love Nature, you will find beauty everywhere.  
+> — Vincent van Gogh
+*(Updated: 2026-06-29)*
