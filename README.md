@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you truly love Nature, you will find beauty everywhere.  
-> — Vincent van Gogh
-*(Updated: 2026-06-29)*
+> Happiness depends on your mindset and attitude.  
+> — Roy T. Bennett
+*(Updated: 2026-06-30)*
