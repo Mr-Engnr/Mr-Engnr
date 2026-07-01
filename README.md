@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Happiness depends on your mindset and attitude.  
-> — Roy T. Bennett
-*(Updated: 2026-06-30)*
+> There are no differences but differences of degree between different degrees of difference and no difference.  
+> — William James
+*(Updated: 2026-07-01)*
