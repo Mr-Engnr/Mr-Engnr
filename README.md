@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The farther backward you can look, the farther forward you are likely to see.  
-> — Winston Churchill
-*(Updated: 2026-07-03)*
+> Build things that matter.  
+> — Unknown
+*(Updated: 2026-07-04)*
