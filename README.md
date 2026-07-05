@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-07-04)*
+> If I love myself I love you. If I love you I love myself.  
+> — Rumi
+*(Updated: 2026-07-05)*
