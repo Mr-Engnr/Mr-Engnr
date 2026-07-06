@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If I love myself I love you. If I love you I love myself.  
-> — Rumi
-*(Updated: 2026-07-05)*
+> The prettiest eyes have cried the most.  
+> — Unknown
+*(Updated: 2026-07-06)*
