@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The prettiest eyes have cried the most.  
-> — Unknown
-*(Updated: 2026-07-06)*
+> Lust, anger and greed are the three gates to self-destructive hell.  
+> — Bhagavad Gita
+*(Updated: 2026-07-07)*
