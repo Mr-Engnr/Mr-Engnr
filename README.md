@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Be happy now, without reason - or you never will be at all.  
-> — Dan Millman
-*(Updated: 2026-07-10)*
+> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.  
+> — Gary Keller
+*(Updated: 2026-07-11)*
