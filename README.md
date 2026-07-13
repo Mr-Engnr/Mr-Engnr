@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Let us always meet each other with smile, for the smile is the beginning of love.  
-> — Mother Teresa
-*(Updated: 2026-07-12)*
+> Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.  
+> — Aristophanes
+*(Updated: 2026-07-13)*
