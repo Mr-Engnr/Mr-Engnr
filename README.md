@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever.  
-> — Aristophanes
-*(Updated: 2026-07-13)*
+> The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.  
+> — Josh Waitzkin
+*(Updated: 2026-07-14)*
