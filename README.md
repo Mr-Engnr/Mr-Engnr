@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Every day is an opportunity to a make a new happy ending.  
-> — Jonathan Swift
-*(Updated: 2026-07-15)*
+> Nothing is easier than fault finding.  
+> — Og Mandino
+*(Updated: 2026-07-16)*
