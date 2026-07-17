@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Nothing is easier than fault finding.  
-> — Og Mandino
-*(Updated: 2026-07-16)*
+> Courage Is a Love Affair with the Unknown  
+> — Osho
+*(Updated: 2026-07-17)*
