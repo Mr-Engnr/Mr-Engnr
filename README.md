@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Courage Is a Love Affair with the Unknown  
-> — Osho
-*(Updated: 2026-07-17)*
+> A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy.  
+> — Norman Vincent Peale
+*(Updated: 2026-07-18)*
