@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There are no coincidences in the universe.  
-> — Neale Donald Walsch
-*(Updated: 2026-07-20)*
+> Those who know, do. Those that understand, teach.  
+> — Aristotle
+*(Updated: 2026-07-21)*
