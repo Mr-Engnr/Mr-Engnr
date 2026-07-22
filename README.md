@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Those who know, do. Those that understand, teach.  
-> — Aristotle
-*(Updated: 2026-07-21)*
+> Life is not a problem to be solved, but a reality to be experienced.  
+> — Soren Kierkegaard
+*(Updated: 2026-07-22)*
