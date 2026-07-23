@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Life is not a problem to be solved, but a reality to be experienced.  
-> — Soren Kierkegaard
-*(Updated: 2026-07-22)*
+> If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.  
+> — Celestine Chua
+*(Updated: 2026-07-23)*
