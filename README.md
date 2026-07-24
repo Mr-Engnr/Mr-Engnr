@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose.  
-> — Celestine Chua
-*(Updated: 2026-07-23)*
+> Progress lies not in enhancing what is, but in advancing toward what will be.  
+> — Kahlil Gibran
+*(Updated: 2026-07-24)*
