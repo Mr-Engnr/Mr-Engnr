@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Progress lies not in enhancing what is, but in advancing toward what will be.  
-> — Kahlil Gibran
-*(Updated: 2026-07-24)*
+> Create with the heart; build with the mind.  
+> — Criss Jami
+*(Updated: 2026-07-25)*
