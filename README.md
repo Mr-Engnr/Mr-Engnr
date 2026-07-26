@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Create with the heart; build with the mind.  
-> — Criss Jami
-*(Updated: 2026-07-25)*
+> Nothing is more creative...nor destructive...than a brilliant mind with a purpose.  
+> — Dan Brown
+*(Updated: 2026-07-26)*
