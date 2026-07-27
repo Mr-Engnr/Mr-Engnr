@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Nothing is more creative...nor destructive...than a brilliant mind with a purpose.  
-> — Dan Brown
-*(Updated: 2026-07-26)*
+> No man is happy unless he believes he is.  
+> — Publilius Syrus
+*(Updated: 2026-07-27)*
