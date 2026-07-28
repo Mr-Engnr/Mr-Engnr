@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> No man is happy unless he believes he is.  
-> — Publilius Syrus
-*(Updated: 2026-07-27)*
+> Winners don't Quit. That's why they Win.  
+> — Unknown
+*(Updated: 2026-07-28)*
