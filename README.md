@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Imagination is everything. It is the preview of life's coming attractions.  
-> — Albert Einstein
-*(Updated: 2026-07-29)*
+> Failure shows us the way — by showing us what isn't the way.  
+> — Ryan Holiday
+*(Updated: 2026-07-30)*
