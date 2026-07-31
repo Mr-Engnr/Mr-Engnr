@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Failure shows us the way — by showing us what isn't the way.  
-> — Ryan Holiday
-*(Updated: 2026-07-30)*
+> Do what you can, with what you have, where you are.  
+> — Theodore Roosevelt
+*(Updated: 2026-07-31)*
