@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Do what you can, with what you have, where you are.  
-> — Theodore Roosevelt
-*(Updated: 2026-07-31)*
+> Once a decision was made, I didn't worry about it afterward.  
+> — Harry S. Truman
+*(Updated: 2026-08-01)*
