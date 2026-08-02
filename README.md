@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Once a decision was made, I didn't worry about it afterward.  
-> — Harry S. Truman
-*(Updated: 2026-08-01)*
+> Be regular and orderly in your life, so that you may be violent and original in your work.  
+> — Gustave Flaubert
+*(Updated: 2026-08-02)*
