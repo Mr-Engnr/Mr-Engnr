@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The greatest gift that you can give to others is the gift of unconditional love and acceptance.  
-> — Brian Tracy
-*(Updated: 2026-08-03)*
+> Change is hard at first, messy in the middle and gorgeous at the end.  
+> — Robin Sharma
+*(Updated: 2026-08-04)*
