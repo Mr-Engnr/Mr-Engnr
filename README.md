@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Change is hard at first, messy in the middle and gorgeous at the end.  
-> — Robin Sharma
-*(Updated: 2026-08-04)*
+> Throughout this life, you can never be certain of living long enough to take another breath.  
+> — Huang Po
+*(Updated: 2026-08-05)*
