@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Throughout this life, you can never be certain of living long enough to take another breath.  
-> — Huang Po
-*(Updated: 2026-08-05)*
+> Every failure brings with it the seed of an equivalent success.  
+> — Napoleon Hill
+*(Updated: 2026-08-06)*
