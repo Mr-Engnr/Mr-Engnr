@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Fear can hold you prisoner. Hope can set you free.  
-> — Stephen King
-*(Updated: 2026-08-08)*
+> Inspire yourself to be great. Being good isn't good enough.  
+> — Gurbaksh Chahal
+*(Updated: 2026-08-09)*
