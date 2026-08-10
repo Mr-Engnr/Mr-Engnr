@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Inspire yourself to be great. Being good isn't good enough.  
-> — Gurbaksh Chahal
-*(Updated: 2026-08-09)*
+> We lie the loudest when we lie to ourselves.  
+> — Eric Hoffer
+*(Updated: 2026-08-10)*
