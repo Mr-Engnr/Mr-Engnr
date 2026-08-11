@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> We lie the loudest when we lie to ourselves.  
-> — Eric Hoffer
-*(Updated: 2026-08-10)*
+> All men are equal before fish.  
+> — Herbert Hoover
+*(Updated: 2026-08-11)*
