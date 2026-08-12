@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> All men are equal before fish.  
-> — Herbert Hoover
-*(Updated: 2026-08-11)*
+> A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.  
+> — George Bernard Shaw
+*(Updated: 2026-08-12)*
