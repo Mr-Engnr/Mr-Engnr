@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Against the assault of laughter nothing can stand.  
-> — Mark Twain
-*(Updated: 2026-08-13)*
+> Age is a very high price to pay for maturity.  
+> — William James
+*(Updated: 2026-08-14)*
