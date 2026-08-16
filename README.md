@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Life is one long process of getting tired.  
-> — Samuel Butler
-*(Updated: 2026-08-15)*
+> Whatever your heart clings to and confides in, that is really your God.  
+> — Martin Luther
+*(Updated: 2026-08-16)*
