@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> If you spend too much time thinking about a thing, you'll never get it done.  
-> — Bruce Lee
-*(Updated: 2026-08-18)*
+> Change happens when the pain of holding on becomes greater than the fear of letting go.  
+> — Spencer Johnson
+*(Updated: 2026-08-19)*
