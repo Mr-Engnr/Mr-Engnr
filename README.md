@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Change happens when the pain of holding on becomes greater than the fear of letting go.  
-> — Spencer Johnson
-*(Updated: 2026-08-19)*
+> All life is a manifestation of the spirit, the manifestation of love.  
+> — Morihei Ueshiba
+*(Updated: 2026-08-20)*
