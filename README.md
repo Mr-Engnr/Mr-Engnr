@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> All life is a manifestation of the spirit, the manifestation of love.  
-> — Morihei Ueshiba
-*(Updated: 2026-08-20)*
+> Life is a constant series of opportunities.  
+> — Ming-Dao Deng
+*(Updated: 2026-08-21)*
