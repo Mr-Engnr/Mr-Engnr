@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> They who have conquered doubt and fear have conquered failure.  
-> — James Allen
-*(Updated: 2026-08-22)*
+> Definiteness of purpose is the starting point of all achievement.  
+> — W. Clement Stone
+*(Updated: 2026-08-23)*
