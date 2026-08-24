@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Definiteness of purpose is the starting point of all achievement.  
-> — W. Clement Stone
-*(Updated: 2026-08-23)*
+> Projecting your mind into a successful situation is the most powerful means to achieve goals.  
+> — Estee Lauder
+*(Updated: 2026-08-24)*
