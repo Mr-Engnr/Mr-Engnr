@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> I live by letting things happen.  
-> — Dogen
-*(Updated: 2026-08-26)*
+> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.  
+> — Brian Tracy
+*(Updated: 2026-08-27)*
