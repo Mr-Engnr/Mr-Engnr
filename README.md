@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.  
-> — Dr. Seuss
-*(Updated: 2026-08-28)*
+> Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.  
+> — Eleanor Roosevelt
+*(Updated: 2026-08-29)*
