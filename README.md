@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life.  
-> — Eleanor Roosevelt
-*(Updated: 2026-08-29)*
+> Simplicity is the glory of expression.  
+> — Walt Whitman
+*(Updated: 2026-08-30)*
