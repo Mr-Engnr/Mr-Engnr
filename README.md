@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Simplicity is the glory of expression.  
-> — Walt Whitman
-*(Updated: 2026-08-30)*
+> Build things that matter.  
+> — Unknown
+*(Updated: 2026-08-31)*
