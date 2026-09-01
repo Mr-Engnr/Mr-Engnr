@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-08-31)*
+> A dream you dream alone is only a dream. A dream you dream together is reality.  
+> — Yoko Ono
+*(Updated: 2026-09-01)*
