@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> A dream you dream alone is only a dream. A dream you dream together is reality.  
-> — Yoko Ono
-*(Updated: 2026-09-01)*
+> Nothing is permanent in this wicked world - not even our troubles.  
+> — Charlie Chaplin
+*(Updated: 2026-09-02)*
