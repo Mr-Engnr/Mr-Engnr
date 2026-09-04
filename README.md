@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive.  
-> — Anne Wilson Schaef
-*(Updated: 2026-09-03)*
+> Confidence is consistency of thinking about what is possible and how to make it possible.  
+> — John Eliot
+*(Updated: 2026-09-04)*
