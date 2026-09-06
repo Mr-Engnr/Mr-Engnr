@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> How you think when you lose determines how long it will be until you win.  
-> — Gilbert Chesterton
-*(Updated: 2026-09-05)*
+> No matter what happens, always be yourself.  
+> — Dale Carnegie
+*(Updated: 2026-09-06)*
