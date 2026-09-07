@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> No matter what happens, always be yourself.  
-> — Dale Carnegie
-*(Updated: 2026-09-06)*
+> Winners are not people who never fail, but people who never quit.  
+> — Arnold Schwarzenegger
+*(Updated: 2026-09-07)*
