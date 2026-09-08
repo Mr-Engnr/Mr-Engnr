@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Winners are not people who never fail, but people who never quit.  
-> — Arnold Schwarzenegger
-*(Updated: 2026-09-07)*
+> You cannot change your destination overnight but you can change your direction overnight.  
+> — Jim Rohn
+*(Updated: 2026-09-08)*
