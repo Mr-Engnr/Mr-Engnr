@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> You cannot change your destination overnight but you can change your direction overnight.  
-> — Jim Rohn
-*(Updated: 2026-09-08)*
+> Hope is not a strategy. Luck is not a factor. Fear is not an option.  
+> — James Cameron
+*(Updated: 2026-09-09)*
