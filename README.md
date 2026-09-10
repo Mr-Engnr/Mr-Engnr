@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Hope is not a strategy. Luck is not a factor. Fear is not an option.  
-> — James Cameron
-*(Updated: 2026-09-09)*
+> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!  
+> — Tony Robbins
+*(Updated: 2026-09-10)*
