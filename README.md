@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it!  
-> — Tony Robbins
-*(Updated: 2026-09-10)*
+> Either you choose to stay in the shallow end of the pool or you go out into the ocean.  
+> — Christopher Reeve
+*(Updated: 2026-09-11)*
