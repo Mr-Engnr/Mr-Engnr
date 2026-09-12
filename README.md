@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Either you choose to stay in the shallow end of the pool or you go out into the ocean.  
-> — Christopher Reeve
-*(Updated: 2026-09-11)*
+> Man suffers only because he takes seriously what the gods made for fun.  
+> — Alan Watts
+*(Updated: 2026-09-12)*
