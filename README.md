@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Man suffers only because he takes seriously what the gods made for fun.  
-> — Alan Watts
-*(Updated: 2026-09-12)*
+> As mortals, we're ruled by conditions, not by ourselves.  
+> — Bodhidharma
+*(Updated: 2026-09-13)*
