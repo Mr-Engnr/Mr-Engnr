@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> As mortals, we're ruled by conditions, not by ourselves.  
-> — Bodhidharma
-*(Updated: 2026-09-13)*
+> You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.  
+> — Steve Maraboli
+*(Updated: 2026-09-14)*
