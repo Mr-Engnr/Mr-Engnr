@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously.  
-> — Steve Maraboli
-*(Updated: 2026-09-14)*
+> We are always complaining that our days are few, and acting as though there would be no end of them.  
+> — Seneca
+*(Updated: 2026-09-15)*
