@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> All you need is the plan, the road map, and the courage to press on to your destination.  
-> — Earl Nightingale
-*(Updated: 2026-09-16)*
+> Nature is pleased with simplicity. And nature is no dummy.  
+> — Isaac Newton
+*(Updated: 2026-09-17)*
