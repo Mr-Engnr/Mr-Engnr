@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Nature is pleased with simplicity. And nature is no dummy.  
-> — Isaac Newton
-*(Updated: 2026-09-17)*
+> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.  
+> — Robert Kiyosaki
+*(Updated: 2026-09-18)*
