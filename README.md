@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way.  
-> — Robert Kiyosaki
-*(Updated: 2026-09-18)*
+> You cannot push anyone up a ladder unless he is willing to climb a little himself.  
+> — Andrew Carnegie
+*(Updated: 2026-09-19)*
