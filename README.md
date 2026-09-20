@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> You cannot push anyone up a ladder unless he is willing to climb a little himself.  
-> — Andrew Carnegie
-*(Updated: 2026-09-19)*
+> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.  
+> — Charles Dickens
+*(Updated: 2026-09-20)*
