@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.  
-> — Charles Dickens
-*(Updated: 2026-09-20)*
+> You're always free to change your mind and choose a different future, or a different past.  
+> — Richard Bach
+*(Updated: 2026-09-21)*
