@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> You're always free to change your mind and choose a different future, or a different past.  
-> — Richard Bach
-*(Updated: 2026-09-21)*
+> Cleverness is not wisdom.  
+> — Euripides
+*(Updated: 2026-09-22)*
