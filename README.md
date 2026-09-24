@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The easiest way in the world to make enemies is to hire friends.  
-> — George Lorimer
-*(Updated: 2026-09-23)*
+> Nothing like a health problem to turn up the contrast dial for the rest of life.  
+> — Naval Ravikant
+*(Updated: 2026-09-24)*
