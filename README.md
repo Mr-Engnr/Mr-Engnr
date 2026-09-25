@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Nothing like a health problem to turn up the contrast dial for the rest of life.  
-> — Naval Ravikant
-*(Updated: 2026-09-24)*
+> Sometimes letting things go is an act of far greater power than defending or hanging on.  
+> — Eckhart Tolle
+*(Updated: 2026-09-25)*
