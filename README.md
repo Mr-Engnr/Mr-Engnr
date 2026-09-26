@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Sometimes letting things go is an act of far greater power than defending or hanging on.  
-> — Eckhart Tolle
-*(Updated: 2026-09-25)*
+> Your only obligation in any lifetime is to be true to yourself.  
+> — Richard Bach
+*(Updated: 2026-09-26)*
