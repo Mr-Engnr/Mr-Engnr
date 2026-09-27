@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Your only obligation in any lifetime is to be true to yourself.  
-> — Richard Bach
-*(Updated: 2026-09-26)*
+> There is no value in anything until it is finished.  
+> — Genghis Khan
+*(Updated: 2026-09-27)*
