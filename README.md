@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There is no value in anything until it is finished.  
-> — Genghis Khan
-*(Updated: 2026-09-27)*
+> Don't listen to the person who has the answers; listen to the person who has the questions.  
+> — Albert Einstein
+*(Updated: 2026-09-28)*
