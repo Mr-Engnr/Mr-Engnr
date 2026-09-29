@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Don't listen to the person who has the answers; listen to the person who has the questions.  
-> — Albert Einstein
-*(Updated: 2026-09-28)*
+> Build things that matter.  
+> — Unknown
+*(Updated: 2026-09-29)*
