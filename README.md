@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-09-29)*
+> Decide upon your major definite purpose in life and then organize all your activities around it.  
+> — Brian Tracy
+*(Updated: 2026-09-30)*
