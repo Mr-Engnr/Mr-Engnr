@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Decide upon your major definite purpose in life and then organize all your activities around it.  
-> — Brian Tracy
-*(Updated: 2026-09-30)*
+> Life itself is the most wonderful fairy tale.  
+> — Hans Christian Andersen
+*(Updated: 2026-10-01)*
