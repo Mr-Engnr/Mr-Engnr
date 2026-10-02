@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Life itself is the most wonderful fairy tale.  
-> — Hans Christian Andersen
-*(Updated: 2026-10-01)*
+> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.  
+> — Colin R. Davis
+*(Updated: 2026-10-02)*
