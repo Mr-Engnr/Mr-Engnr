@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> I can't change the direction of the wind, but I can adjust my sails to always reach my destination.  
-> — Colin R. Davis
-*(Updated: 2026-10-02)*
+> Be confident, not certain.  
+> — Eleanor Roosevelt
+*(Updated: 2026-10-03)*
