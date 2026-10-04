@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Be confident, not certain.  
-> — Eleanor Roosevelt
-*(Updated: 2026-10-03)*
+> The one who praises you is a thief. The one who criticizes you is your true friend.  
+> — Seungsahn
+*(Updated: 2026-10-04)*
