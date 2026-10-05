@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The one who praises you is a thief. The one who criticizes you is your true friend.  
-> — Seungsahn
-*(Updated: 2026-10-04)*
+> Mistake is a mistake only if you make it twice.  
+> — Robin Sharma
+*(Updated: 2026-10-05)*
