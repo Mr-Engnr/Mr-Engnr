@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Mistake is a mistake only if you make it twice.  
-> — Robin Sharma
-*(Updated: 2026-10-05)*
+> Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.  
+> — Thich Nhat Hanh
+*(Updated: 2026-10-06)*
