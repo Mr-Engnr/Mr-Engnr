@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor.  
-> — Thich Nhat Hanh
-*(Updated: 2026-10-06)*
+> Your very silence shows you agree.  
+> — Euripides
+*(Updated: 2026-10-07)*
