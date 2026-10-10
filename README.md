@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There is no way to happiness - happiness is the way.  
-> — Thich Nhat Hanh
-*(Updated: 2026-10-09)*
+> Fear can hold you prisoner. Hope can set you free.  
+> — Stephen King
+*(Updated: 2026-10-10)*
