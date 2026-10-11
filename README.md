@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Fear can hold you prisoner. Hope can set you free.  
-> — Stephen King
-*(Updated: 2026-10-10)*
+> Rudeness is the weak man's imitation of strength.  
+> — Eric Hoffer
+*(Updated: 2026-10-11)*
