@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Rudeness is the weak man's imitation of strength.  
-> — Eric Hoffer
-*(Updated: 2026-10-11)*
+> Failure comes from ego, greed, envy, fear, and imitation.  
+> — Warren Buffett
+*(Updated: 2026-10-12)*
