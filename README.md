@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Failure comes from ego, greed, envy, fear, and imitation.  
-> — Warren Buffett
-*(Updated: 2026-10-12)*
+> The key to success is action.  
+> — Brian Tracy
+*(Updated: 2026-10-13)*
