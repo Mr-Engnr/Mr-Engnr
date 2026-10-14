@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The key to success is action.  
-> — Brian Tracy
-*(Updated: 2026-10-13)*
+> Follow your heart, listen to your inner voice, stop caring about what others think.  
+> — Roy T. Bennett
+*(Updated: 2026-10-14)*
