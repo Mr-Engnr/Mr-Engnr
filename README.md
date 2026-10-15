@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Follow your heart, listen to your inner voice, stop caring about what others think.  
-> — Roy T. Bennett
-*(Updated: 2026-10-14)*
+> Your goals are the road maps that guide you and show you what is possible for your life.  
+> — Les Brown
+*(Updated: 2026-10-15)*
