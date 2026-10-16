@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Your goals are the road maps that guide you and show you what is possible for your life.  
-> — Les Brown
-*(Updated: 2026-10-15)*
+> It is better to be looked over than overlooked.  
+> — Mae West
+*(Updated: 2026-10-16)*
