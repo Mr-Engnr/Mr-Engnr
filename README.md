@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> It is better to be looked over than overlooked.  
-> — Mae West
-*(Updated: 2026-10-16)*
+> True ignorance is not the absence of knowledge, it's the refusal to acquire it.  
+> — Jeff Booth
+*(Updated: 2026-10-17)*
