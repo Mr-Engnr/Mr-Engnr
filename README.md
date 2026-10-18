@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> True ignorance is not the absence of knowledge, it's the refusal to acquire it.  
-> — Jeff Booth
-*(Updated: 2026-10-17)*
+> A real friend is one who walks in when the rest of the world walks out.  
+> — Unknown
+*(Updated: 2026-10-18)*
