@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> A real friend is one who walks in when the rest of the world walks out.  
-> — Unknown
-*(Updated: 2026-10-18)*
+> People who say it cannot be done should not interrupt those who are doing it.  
+> — George Bernard Shaw
+*(Updated: 2026-10-19)*
