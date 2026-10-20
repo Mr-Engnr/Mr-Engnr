@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> People who say it cannot be done should not interrupt those who are doing it.  
-> — George Bernard Shaw
-*(Updated: 2026-10-19)*
+> Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.  
+> — Colin R. Davis
+*(Updated: 2026-10-20)*
