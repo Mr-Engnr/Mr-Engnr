@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> To be happy we need something to solve. Happiness is therefore a form of action.  
-> — Mark Manson
-*(Updated: 2026-10-21)*
+> Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner.  
+> — Sonia Ricotti
+*(Updated: 2026-10-22)*
