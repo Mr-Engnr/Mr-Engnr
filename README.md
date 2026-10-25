@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> No man ever steps in the same river twice, for it's not the same river and he's not the same man.  
-> — Heraclitus
-*(Updated: 2026-10-24)*
+> All know the way; few actually walk it.  
+> — Bodhidharma
+*(Updated: 2026-10-25)*
