@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> All know the way; few actually walk it.  
-> — Bodhidharma
-*(Updated: 2026-10-25)*
+> A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.  
+> — Chinese Proverb
+*(Updated: 2026-10-26)*
