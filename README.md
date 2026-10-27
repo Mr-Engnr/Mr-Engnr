@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.  
-> — Chinese Proverb
-*(Updated: 2026-10-26)*
+> Hope is not a strategy. Luck is not a factor. Fear is not an option.  
+> — James Cameron
+*(Updated: 2026-10-27)*
