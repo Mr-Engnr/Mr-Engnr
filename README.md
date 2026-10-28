@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Hope is not a strategy. Luck is not a factor. Fear is not an option.  
-> — James Cameron
-*(Updated: 2026-10-27)*
+> Trust in dreams, for in them is the hidden gate to eternity.  
+> — Kahlil Gibran
+*(Updated: 2026-10-28)*
