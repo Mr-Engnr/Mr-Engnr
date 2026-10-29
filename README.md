@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Trust in dreams, for in them is the hidden gate to eternity.  
-> — Kahlil Gibran
-*(Updated: 2026-10-28)*
+> We have to live life with a sense of urgency so not a minute is wasted.  
+> — Les Brown
+*(Updated: 2026-10-29)*
