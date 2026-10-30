@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> We have to live life with a sense of urgency so not a minute is wasted.  
-> — Les Brown
-*(Updated: 2026-10-29)*
+> If you try to micromanage yourself all you're going to do is make yourself miserable.  
+> — Naval Ravikant
+*(Updated: 2026-10-30)*
