@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Make yourself so useful to other people, that they think you are irreplaceable.  
-> — Og Mandino
-*(Updated: 2026-10-31)*
+> Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.  
+> — Gurbaksh Chahal
+*(Updated: 2026-11-01)*
