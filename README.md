@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.  
-> — Gurbaksh Chahal
-*(Updated: 2026-11-01)*
+> The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.  
+> — Josh Waitzkin
+*(Updated: 2026-11-02)*
