@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.  
-> — Josh Waitzkin
-*(Updated: 2026-11-02)*
+> Life doesn't get easier or more forgiving, we get stronger and more resilient.  
+> — Steve Maraboli
+*(Updated: 2026-11-03)*
