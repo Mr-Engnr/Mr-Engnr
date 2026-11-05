@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Do not go where the path may lead, go instead where there is no path and leave a trail.  
-> — Ralph Waldo Emerson
-*(Updated: 2026-11-04)*
+> The smallest of actions is always better than the noblest of intentions.  
+> — Robin Sharma
+*(Updated: 2026-11-05)*
