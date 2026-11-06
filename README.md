@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The smallest of actions is always better than the noblest of intentions.  
-> — Robin Sharma
-*(Updated: 2026-11-05)*
+> We suffer for the simple reason that suffering is biologically useful. It is nature's preferred agent for inspiring change.  
+> — Mark Manson
+*(Updated: 2026-11-06)*
