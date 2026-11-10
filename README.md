@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.  
-> — Eleanor Roosevelt
-*(Updated: 2026-11-09)*
+> Go as far as you can see and you will see further.  
+> — Zig Ziglar
+*(Updated: 2026-11-10)*
