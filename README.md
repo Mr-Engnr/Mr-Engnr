@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Go as far as you can see and you will see further.  
-> — Zig Ziglar
-*(Updated: 2026-11-10)*
+> It is not titles that honour men, but men that honour titles.  
+> — Niccolo Machiavelli
+*(Updated: 2026-11-11)*
