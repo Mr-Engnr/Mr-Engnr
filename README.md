@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> It is not titles that honour men, but men that honour titles.  
-> — Niccolo Machiavelli
-*(Updated: 2026-11-11)*
+> Wheels of justice grind slow but grind fine.  
+> — Sun Tzu
+*(Updated: 2026-11-12)*
