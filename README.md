@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Wheels of justice grind slow but grind fine.  
-> — Sun Tzu
-*(Updated: 2026-11-12)*
+> Nothing is more real than nothing.  
+> — Samuel Beckett
+*(Updated: 2026-11-13)*
