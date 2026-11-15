@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The greatest miracle is to be alive.  
-> — Thich Nhat Hanh
-*(Updated: 2026-11-14)*
+> We are all born ignorant, but one must work hard to remain stupid.  
+> — Benjamin Franklin
+*(Updated: 2026-11-15)*
