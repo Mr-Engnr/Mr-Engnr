@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> We are all born ignorant, but one must work hard to remain stupid.  
-> — Benjamin Franklin
-*(Updated: 2026-11-15)*
+> There is no limitations except those we create for ourselves.  
+> — Lolly Daskal
+*(Updated: 2026-11-16)*
