@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There is no limitations except those we create for ourselves.  
-> — Lolly Daskal
-*(Updated: 2026-11-16)*
+> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.  
+> — Colin Powell
+*(Updated: 2026-11-17)*
