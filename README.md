@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> There are no secrets to success. It is the result of preparation, hard work, and learning from failure.  
-> — Colin Powell
-*(Updated: 2026-11-17)*
+> A path is made by walking on it.  
+> — Zhuangzi
+*(Updated: 2026-11-18)*
