@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> A path is made by walking on it.  
-> — Zhuangzi
-*(Updated: 2026-11-18)*
+> Build things that matter.  
+> — Unknown
+*(Updated: 2026-11-19)*
