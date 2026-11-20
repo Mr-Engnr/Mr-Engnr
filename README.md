@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-11-19)*
+> The eyes of others our prisons; their thoughts our cages.  
+> — Virginia Woolf
+*(Updated: 2026-11-20)*
