@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> The eyes of others our prisons; their thoughts our cages.  
-> — Virginia Woolf
-*(Updated: 2026-11-20)*
+> There is nothing quite so tragic as a young cynic.  
+> — Maya Angelou
+*(Updated: 2026-11-21)*
