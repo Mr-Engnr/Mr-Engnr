@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Build things that matter.  
-> — Unknown
-*(Updated: 2026-11-23)*
+> You may think I'm small, but I have a universe inside my mind.  
+> — Yoko Ono
+*(Updated: 2026-11-24)*
