@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> You may think I'm small, but I have a universe inside my mind.  
-> — Yoko Ono
-*(Updated: 2026-11-24)*
+> Unless someone truly has the power to say no, they never truly have the power to say yes.  
+> — Dan Millman
+*(Updated: 2026-11-25)*
