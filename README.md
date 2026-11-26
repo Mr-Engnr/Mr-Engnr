@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> Unless someone truly has the power to say no, they never truly have the power to say yes.  
-> — Dan Millman
-*(Updated: 2026-11-25)*
+> A crisis is an opportunity riding the dangerous wind.  
+> — Chinese Proverb
+*(Updated: 2026-11-26)*
