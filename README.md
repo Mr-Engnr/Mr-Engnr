@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> A crisis is an opportunity riding the dangerous wind.  
-> — Chinese Proverb
-*(Updated: 2026-11-26)*
+> We build too many walls and not enough bridges.  
+> — Isaac Newton
+*(Updated: 2026-11-27)*
