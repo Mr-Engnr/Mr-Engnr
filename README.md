@@ -35,6 +35,6 @@ I enjoy building **end-to-end, real-world projects** that combine hardware, data
 
 ## Quote of the Day 🚀
 
-> We build too many walls and not enough bridges.  
-> — Isaac Newton
-*(Updated: 2026-11-27)*
+> The busy man is never wise and the wise man is never busy.  
+> — Lin Yutang
+*(Updated: 2026-11-28)*
